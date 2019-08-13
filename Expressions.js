@@ -1,4 +1,4 @@
-Lesson Notes
+/* Lesson Notes
 abc…	Letters
 123…	Digits
 \d	Any Digit
@@ -22,4 +22,4 @@ abc…	Letters
 (…)	Capture Group
 (a(bc))	Capture Sub-group
 (.*)	Capture all
-(abc|def)	Matches abc or def
+(abc|def)	Matches abc or def */
